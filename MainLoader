@@ -1,0 +1,3 @@
+local placeId = game.PlaceId
+
+if placeId = 10945472407 then

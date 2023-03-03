@@ -1,3 +1,5 @@
 local placeId = game.PlaceId
 
 if placeId = 10945472407 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/BreadDude1/Bread-Hub/main/strong%20man%20simulator%20script.lua",true))()
+end
